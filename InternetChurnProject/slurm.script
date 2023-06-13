@@ -1,0 +1,16 @@
+#!/bin/bash
+
+#SBATCH -J test
+#SBATCH -p main
+#SBATCH --qos main
+#SBATCH --mem 24gb
+#SBATCH -N 1
+#SBATCH --ntasks 32
+#SBATCH -o job.out
+#SBATCH -e job.err
+
+module load miniconda3/base
+conda activate ML
+
+python supervised.py
+
