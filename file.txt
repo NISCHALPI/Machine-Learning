@@ -1,0 +1,99 @@
+.
+├── DATA
+│   ├── Advertising.csv
+│   ├── airline_tweets.csv
+│   ├── AMES_Final_DF.csv
+│   ├── Ames_Housing_Data.csv
+│   ├── Ames_Housing_Feature_Description.txt
+│   ├── Ames_NO_Missing_Data.csv
+│   ├── Ames_outliers_removed.csv
+│   ├── bank-full.csv
+│   ├── cancer_tumor_data_features.csv
+│   ├── cement_slump.csv
+│   ├── census_income_data.csv
+│   ├── CIA_Country_Facts.csv
+│   ├── cluster_blobs.csv
+│   ├── cluster_circles.csv
+│   ├── cluster_moons.csv
+│   ├── cluster_mpg.csv
+│   ├── cluster_two_blobs.csv
+│   ├── cluster_two_blobs_outliers.csv
+│   ├── country_iso_codes.csv
+│   ├── credit_default_risk.csv
+│   ├── data_banknote_authentication.csv
+│   ├── data-dictionary.csv
+│   ├── digits.csv
+│   ├── example.csv
+│   ├── gene_expression.csv
+│   ├── hearing_test.csv
+│   ├── heart.csv
+│   ├── iris.csv
+│   ├── mouse_viral_study.csv
+│   ├── moviereviews.csv
+│   ├── movie_scores.csv
+│   ├── mpg.csv
+│   ├── mushrooms.csv
+│   ├── palm_trees.jpg
+│   ├── pattern_test_results.csv
+│   ├── penguins_lter.csv
+│   ├── penguins_size.csv
+│   ├── players_20.csv
+│   ├── RetailSales_BeerWineLiquor.csv
+│   ├── rock_density_xray.csv
+│   ├── sex_height_weight.csv
+│   ├── sonar.all-data.csv
+│   ├── Telco-Customer-Churn.csv
+│   ├── tips.csv
+│   ├── voting_data_eng.csv
+│   ├── wholesome_customers_data.csv
+│   ├── wine_fraud.csv
+│   ├── winequality-red.csv
+│   └── winequality-white.csv
+├── dbscan_outlier
+│   └── dbscan_grocery_outlier.ipynb
+├── file.txt
+├── InternetChurnProject
+│   ├── final_model
+│   ├── job.err
+│   ├── job.out
+│   ├── learners
+│   │   ├── gbc.joblib
+│   │   ├── knn.joblib
+│   │   ├── rf.joblib
+│   │   └── svc.joblib
+│   ├── slurm.script
+│   ├── supervised.ipynb
+│   └── supervised.py
+├── KMeans_Country_Clustring
+│   └── KMeans_country_clustering.ipynb
+├── LICENSE
+├── NaturalLanguageProcessing
+│   ├── learners
+│   │   ├── knn.joblib
+│   │   ├── log.joblib
+│   │   ├── meta_learner_deploy.joblib
+│   │   ├── nb.joblib
+│   │   ├── rf.joblib
+│   │   └── svm.joblib
+│   └── nlp_project.ipynb
+├── PCA
+│   └── PCA.ipynb
+├── README.md
+├── SupervisedLearningProjects
+│   ├── banknote_randomforest.ipynb
+│   ├── descisiontrees_penguin.ipynb
+│   ├── knn.ipynb
+│   ├── naivebayes.ipynb
+│   ├── pengin_randomforest.ipynb
+│   ├── stacking.ipynb
+│   └── svm.ipynb
+├── Udemy_certification.pdf
+└── UnsupervisedLearning
+    ├── colorQuantization.ipynb
+    ├── dbscan_vs_kmeans.ipynb
+    ├── HierarchicalClustring.ipynb
+    ├── kmeans.ipynb
+    ├── manual_pca_implementation.ipynb
+    └── PrincipleComponentAnalysis.ipynb
+
+10 directories, 86 files
